@@ -29,4 +29,4 @@ jpa.entity.package: com.andx.micro.permission.model,com.andx.micro.core.idempote
 
 session.filter.enable: false
 
-tmp: test
+tmp: test update 1.0
